@@ -19,8 +19,8 @@
     height: 9px;
     background-color: #bdbdbd;
     border-radius: 9px;
-    -webkit-box-shadow: 0px 0px 2px 8px #ffffff;
-            box-shadow: 0px 0px 2px 8px #ffffff;
+    -webkit-box-shadow: 0px 0px 2px 8px #ffffff00;
+            box-shadow: 0px 0px 2px 8px #ffffff00;
   }
 }
 
@@ -286,11 +286,14 @@
 /* Fonts */
 body {
   font-family: Roboto;
+  height: 9000px;
+  -webkit-transition: 1s;
+  transition: 1s;
 }
 
 #timeline {
   padding: 100px 0;
-  background: #ffffff;
+  background: #ffffff00;
   border-top: 1px solid rgba(255, 255, 255, 0.4);
   border-bottom: 1px solid rgba(255, 255, 255, 0.4);
 }
