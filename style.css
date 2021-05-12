@@ -294,8 +294,8 @@ body {
 #timeline {
   padding: 100px 0;
   background: #ffffff00;
-  border-top: 1px solid rgba(255, 255, 255, 0.4);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  border-top: 1px solid rgba(255, 255, 255, 0);
+  border-bottom: 1px solid rgba(255, 255, 255, 0);
 }
 
 #timeline h1 {
@@ -339,7 +339,7 @@ body {
   top: 0;
   bottom: 0;
   left: 50%;
-  border-left: 1px solid rgba(255, 255, 255, 0.4);
+  border-left: 1px solid rgba(255, 255, 255, 0);
 }
 
 @media (min-width: 1000px) {
@@ -459,7 +459,7 @@ body {
 
 #timeline .demo-card .body {
   background: #fff;
-  border: 1px solid rgba(255, 255, 255, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0);
   border-top: 0;
   padding: 15px;
 }
