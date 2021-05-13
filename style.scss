@@ -26,7 +26,7 @@
 
 $background: #ffffff00;
 $box-shadow: 0px 1px 22px 4px rgba(0, 0, 0, 0.07);
-$border: 1px solid rgba(255, 255, 255, 0.4);
+$border: 1px solid rgba(255, 255, 255, 0);
 $items: 42;
 $rows: ceil($items/2);
 
@@ -42,10 +42,10 @@ $marker-size: 9px;
 
 /* Colors */
 
-$steps: #46b8e9;
-$colors: #46b8e9,
-#3ee9d1,
-#ce43eb,
+$steps: #4d92eb;
+$colors: #4d92eb,
+#4d92eb,
+#4d92eb,
 #4d92eb;
 $timeline: #bdbdbd;
 
@@ -98,7 +98,7 @@ $counter: $items - $rows + 2;
 /* Fonts */
 
 body {
-  font-family: Roboto;
+  font-family: Shuei Mincho M;
   height:9000px;
   transition: 1s;
 }

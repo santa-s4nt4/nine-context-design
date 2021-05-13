@@ -10,7 +10,7 @@ window.addEventListener( "scroll" ,function(){
   } else if (scroll > 5000) {
     document.body.style.backgroundColor = '#03192B';
   } else if (scroll > 4000) {
-    document.body.style.backgroundColor = '#BF3317';
+    document.body.style.backgroundColor = '#FF7B03';
   } else if( scroll > 3000 ) {
     document.body.style.backgroundColor = '#FFA468';
   } else if( scroll > 2000 ) {

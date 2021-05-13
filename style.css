@@ -285,7 +285,7 @@
 
 /* Fonts */
 body {
-  font-family: Roboto;
+  font-family: Shuei Mincho M;
   height: 9000px;
   -webkit-transition: 1s;
   transition: 1s;
@@ -294,8 +294,8 @@ body {
 #timeline {
   padding: 100px 0;
   background: #ffffff00;
-  border-top: 1px solid rgba(255, 255, 255, 0.4);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  border-top: 1px solid rgba(255, 255, 255, 0);
+  border-bottom: 1px solid rgba(255, 255, 255, 0);
 }
 
 #timeline h1 {
@@ -339,7 +339,7 @@ body {
   top: 0;
   bottom: 0;
   left: 50%;
-  border-left: 1px solid rgba(255, 255, 255, 0.4);
+  border-left: 1px solid rgba(255, 255, 255, 0);
 }
 
 @media (min-width: 1000px) {
@@ -459,7 +459,7 @@ body {
 
 #timeline .demo-card .body {
   background: #fff;
-  border: 1px solid rgba(255, 255, 255, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0);
   border-top: 0;
   padding: 15px;
 }
@@ -486,27 +486,27 @@ body {
 }
 
 #timeline .demo-card--step1 {
-  background-color: #46b8e9;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step1 .head::after {
-  border-color: #46b8e9;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step2 {
-  background-color: #3ee9d1;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step2 .head::after {
-  border-color: #3ee9d1;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step3 {
-  background-color: #ce43eb;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step3 .head::after {
-  border-color: #ce43eb;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step4 {
@@ -518,27 +518,27 @@ body {
 }
 
 #timeline .demo-card--step5 {
-  background-color: #46b8e9;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step5 .head::after {
-  border-color: #46b8e9;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step6 {
-  background-color: #3ee9d1;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step6 .head::after {
-  border-color: #3ee9d1;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step7 {
-  background-color: #ce43eb;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step7 .head::after {
-  border-color: #ce43eb;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step8 {
@@ -550,27 +550,27 @@ body {
 }
 
 #timeline .demo-card--step9 {
-  background-color: #46b8e9;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step9 .head::after {
-  border-color: #46b8e9;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step10 {
-  background-color: #3ee9d1;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step10 .head::after {
-  border-color: #3ee9d1;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step11 {
-  background-color: #ce43eb;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step11 .head::after {
-  border-color: #ce43eb;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step12 {
@@ -582,27 +582,27 @@ body {
 }
 
 #timeline .demo-card--step13 {
-  background-color: #46b8e9;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step13 .head::after {
-  border-color: #46b8e9;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step14 {
-  background-color: #3ee9d1;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step14 .head::after {
-  border-color: #3ee9d1;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step15 {
-  background-color: #ce43eb;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step15 .head::after {
-  border-color: #ce43eb;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step16 {
@@ -614,27 +614,27 @@ body {
 }
 
 #timeline .demo-card--step17 {
-  background-color: #46b8e9;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step17 .head::after {
-  border-color: #46b8e9;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step18 {
-  background-color: #3ee9d1;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step18 .head::after {
-  border-color: #3ee9d1;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step19 {
-  background-color: #ce43eb;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step19 .head::after {
-  border-color: #ce43eb;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step20 {
@@ -646,27 +646,27 @@ body {
 }
 
 #timeline .demo-card--step21 {
-  background-color: #46b8e9;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step21 .head::after {
-  border-color: #46b8e9;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step22 {
-  background-color: #3ee9d1;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step22 .head::after {
-  border-color: #3ee9d1;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step23 {
-  background-color: #ce43eb;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step23 .head::after {
-  border-color: #ce43eb;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step24 {
@@ -678,27 +678,27 @@ body {
 }
 
 #timeline .demo-card--step25 {
-  background-color: #46b8e9;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step25 .head::after {
-  border-color: #46b8e9;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step26 {
-  background-color: #3ee9d1;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step26 .head::after {
-  border-color: #3ee9d1;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step27 {
-  background-color: #ce43eb;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step27 .head::after {
-  border-color: #ce43eb;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step28 {
@@ -710,27 +710,27 @@ body {
 }
 
 #timeline .demo-card--step29 {
-  background-color: #46b8e9;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step29 .head::after {
-  border-color: #46b8e9;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step30 {
-  background-color: #3ee9d1;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step30 .head::after {
-  border-color: #3ee9d1;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step31 {
-  background-color: #ce43eb;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step31 .head::after {
-  border-color: #ce43eb;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step32 {
@@ -742,27 +742,27 @@ body {
 }
 
 #timeline .demo-card--step33 {
-  background-color: #46b8e9;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step33 .head::after {
-  border-color: #46b8e9;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step34 {
-  background-color: #3ee9d1;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step34 .head::after {
-  border-color: #3ee9d1;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step35 {
-  background-color: #ce43eb;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step35 .head::after {
-  border-color: #ce43eb;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step36 {
@@ -774,27 +774,27 @@ body {
 }
 
 #timeline .demo-card--step37 {
-  background-color: #46b8e9;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step37 .head::after {
-  border-color: #46b8e9;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step38 {
-  background-color: #3ee9d1;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step38 .head::after {
-  border-color: #3ee9d1;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step39 {
-  background-color: #ce43eb;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step39 .head::after {
-  border-color: #ce43eb;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step40 {
@@ -806,18 +806,18 @@ body {
 }
 
 #timeline .demo-card--step41 {
-  background-color: #46b8e9;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step41 .head::after {
-  border-color: #46b8e9;
+  border-color: #4d92eb;
 }
 
 #timeline .demo-card--step42 {
-  background-color: #3ee9d1;
+  background-color: #4d92eb;
 }
 
 #timeline .demo-card--step42 .head::after {
-  border-color: #3ee9d1;
+  border-color: #4d92eb;
 }
 /*# sourceMappingURL=style.css.map */
